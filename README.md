@@ -1,4 +1,4 @@
-# NLP _ Project _ Ranked Candidates
+# NLP _ Project _ Ranked Candidates / Potential__Talents
 
 ## Ranked candidates based on job requirements using a combination of 5 models incorporating word2vec, TF-IDF, GLOVE, and a pre-trained BERT model.
 
